@@ -1,0 +1,1 @@
+It is a small one-source-file project. Written in C.
